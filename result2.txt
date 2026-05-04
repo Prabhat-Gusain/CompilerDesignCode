@@ -1,0 +1,4 @@
+int is a keyword
+float is a keyword
+3.14 is a constantchar is a keyword
+if is a keyword

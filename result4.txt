@@ -1,0 +1,4 @@
+It is a valid email address:abc123@gmail.c
+Invaild email address:oInvaild email address:mInvaild email address:Invaild email address:aInvaild email address:bInvaild email address:cInvaild email address:1Invaild email address:2Invaild email address:3Invaild email address:.It is a valid email address:ss@gmail.c
+Invaild email address:oInvaild email address:mInvaild email address:Invaild email address:aInvaild email address:bInvaild email address:cInvaild email address:1Invaild email address:2Invaild email address:3Invaild email address:#It is a valid email address:ss@gmail.c
+Invaild email address:oInvaild email address:m

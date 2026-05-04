@@ -1,0 +1,2 @@
+number of vowels in a sentence:6
+number of consonants in a sentence:8

@@ -1,0 +1,5 @@
+12 is even number:
+14 is even number:
+33 is an odd number:
+8 is even number:
+557 is an odd number:

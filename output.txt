@@ -1,0 +1,2 @@
+Lex is a program  that generates   lexical analyzer.
+It is used with YACC parser   generator.
